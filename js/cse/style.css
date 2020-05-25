@@ -1,0 +1,14 @@
+body{
+
+    font-size: 15px; 
+	background-color: blue;
+	text-align: center;
+
+
+}
+
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
